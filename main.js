@@ -10,3 +10,4 @@ menuBtn.addEventListener("click", () => {
     "class",
     isOpen ? "ri-close-line" : "ri-menu-4-line"
     );
+  });
