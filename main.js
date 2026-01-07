@@ -7,3 +7,4 @@ menuBtn.addEventListener("click", () => {
 
   const isOpen = navLinks.classList.contains("open");
   menuBtnIcon.setAttribute(
+    "class",
