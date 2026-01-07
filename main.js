@@ -4,3 +4,5 @@ const menuBtnIcon = menuBtn.querySelector("i");
 
 menuBtn.addEventListener("click", () => {
   navLinks.classList.toggle("open");
+
+  const isOpen = navLinks.classList.contains("open");
