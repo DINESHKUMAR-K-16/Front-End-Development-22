@@ -9,3 +9,4 @@ menuBtn.addEventListener("click", () => {
   menuBtnIcon.setAttribute(
     "class",
     isOpen ? "ri-close-line" : "ri-menu-4-line"
+    );
