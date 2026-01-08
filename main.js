@@ -15,3 +15,4 @@ menuBtn.addEventListener("click", () => {
 navLinks.addEventListener("click", () => {
   navLinks.classList.remove("open");
   menuBtnIcon.setAttribute("class", "ri-menu-4-line");
+  });
