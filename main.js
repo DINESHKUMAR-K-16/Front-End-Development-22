@@ -11,3 +11,5 @@ menuBtn.addEventListener("click", () => {
     isOpen ? "ri-close-line" : "ri-menu-4-line"
     );
   });
+
+navLinks.addEventListener("click", () => {
