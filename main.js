@@ -25,3 +25,4 @@ const scrollRevealOption = {
 
 ScrollReveal().reveal(".header__container .section__header", {
   ...scrollRevealOption,
+});
