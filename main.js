@@ -22,3 +22,5 @@ const scrollRevealOption = {
    origin: "bottom",
   duration: 1000,
   };
+
+ScrollReveal().reveal(".header__container .section__header", {
