@@ -29,3 +29,4 @@ ScrollReveal().reveal(".header__container .section__header", {
 
 const swiper = new Swiper(".swiper", {
 loop: true,
+}
