@@ -31,6 +31,7 @@ const swiper = new Swiper(".swiper", {
   loop: true,
   effect: "coverflow",
   grabCursor: true,
+  centeredSlides: true,
   
   
 }
