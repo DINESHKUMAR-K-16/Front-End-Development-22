@@ -32,6 +32,7 @@ const swiper = new Swiper(".swiper", {
   effect: "coverflow",
   grabCursor: true,
   centeredSlides: true,
+  slidesPerView: "auto",
   
   
 }
