@@ -36,6 +36,7 @@ const swiper = new Swiper(".swiper", {
   coverflowEffect: {
     rotate: 0,
     depth: 0,
+    modifier: 1,
   
   
 }
