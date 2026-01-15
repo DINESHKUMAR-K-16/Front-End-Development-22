@@ -38,6 +38,7 @@ const swiper = new Swiper(".swiper", {
     depth: 0,
     modifier: 1,
     scale: 0.9,
+    stretch: 0,
   
   
 }
