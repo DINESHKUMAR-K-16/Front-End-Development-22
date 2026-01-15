@@ -37,6 +37,7 @@ const swiper = new Swiper(".swiper", {
     rotate: 0,
     depth: 0,
     modifier: 1,
+    scale: 0.9,
   
   
 }
