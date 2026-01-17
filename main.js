@@ -41,4 +41,4 @@ const swiper = new Swiper(".swiper", {
     stretch: 0,
   
   },
-}
+
