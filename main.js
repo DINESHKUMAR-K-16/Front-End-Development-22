@@ -44,6 +44,7 @@ const swiper = new Swiper(".swiper", {
 
   ScrollReveal().reveal(".service__container .section__subheader", {
     ...scrollRevealOption,
+    });
 
  
     
