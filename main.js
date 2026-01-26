@@ -48,8 +48,7 @@ const swiper = new Swiper(".swiper", {
   ScrollReveal().reveal(".service__container .section__header", {
     ...scrollRevealOption,
     delay: 500,
-    
-  });
+    });
 ScrollReveal().reveal(".service__row:nth-child(2n-1) img"
                       
 
