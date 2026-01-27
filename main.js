@@ -49,7 +49,7 @@ const swiper = new Swiper(".swiper", {
     ...scrollRevealOption,
     delay: 500,
     });
-ScrollReveal().reveal(".service__row:nth-child(2n-1) img" ,
+ScrollReveal().reveal(".service__row:nth-child(2n-1) img" , {
                       
 
  
