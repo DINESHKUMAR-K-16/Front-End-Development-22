@@ -50,6 +50,7 @@ const swiper = new Swiper(".swiper", {
     delay: 500,
     });
 ScrollReveal().reveal(".service__row:nth-child(2n-1) img" , {
+  ...scrollRevealOption,
   
                       
 
