@@ -54,6 +54,8 @@ ScrollReveal().reveal(".service__row:nth-child(2n-1) img" , {
   origin: "left",
 });
   ScrollReveal().reveal(".service__row:nth-child(2n) img", {
+    ...scrollRevealOption,
+    
   
                       
 
