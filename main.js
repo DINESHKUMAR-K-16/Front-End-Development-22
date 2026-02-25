@@ -57,7 +57,7 @@ const swiper = new Swiper(".swiper", {
     ...scrollRevealOption,
     origin: "left",
     
-    });
+  });
     
   
                       
