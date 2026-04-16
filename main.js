@@ -57,6 +57,10 @@ const swiper = new Swiper(".swiper", {
     ...scrollRevealOption,
     origin: "left",
   });
+ScrollReveal().reveal(".service__row:nth-child(2n) img", {
+    ...scrollRevealOption,
+    origin: "left",
+  });
     
   
                       
