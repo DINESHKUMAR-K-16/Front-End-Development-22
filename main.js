@@ -10,7 +10,7 @@ const isOpen = navLinks.classList.contains("open");
     "class",
     isOpen ? "ri-close-line" : "ri-menu-4-line"
     );
-  });
+  
 
 navLinks.addEventListener("click", () => {
   navLinks.classList.remove("open");
